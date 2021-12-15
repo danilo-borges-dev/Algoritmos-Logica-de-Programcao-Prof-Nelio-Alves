@@ -14,7 +14,7 @@ Inicio
       
       escreval("Saída de Dados:":1)
       escrevaL(c)
-      escrevaL(b)
+      escrevaL(b:1:2)
       escrevaL(a)
       escrevaL(d)
 
